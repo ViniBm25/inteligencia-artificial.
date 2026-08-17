@@ -4,19 +4,24 @@
 
 **Vinicius Monteiro**
 
-## Informações acadêmicas
+## Descrição
 
-* **Disciplina:** Inteligência Artificial
-* **Curso:** Engenharia de Software
-* **Instituição:** Universidade de Mogi das Cruzes (UMC)
+Criei este repositório para reunir as atividades desenvolvidas ao longo da matéria de Inteligência Artificial.
+
+Neste repositorio vai ser armazenado todos os exercícios e projetos realizados durante esta mateteria.
+## Conteúdos do repositório
+
+* Atividades desenvolvidas em Python;
+* Notebooks criados no Google Colab;
+* Projetos e trabalhos da matéria;
+* Outros conteúdos relacionados à Inteligência Artificial.
 
 ## Tecnologias utilizadas
 
-* Python
-* Google Colab
-* GitHub
-* Bibliotecas utilizadas durante as aulas
+* Python;
+* Google Colab;
+* GitHub;
 
-## Obhetivo
+## Finalização
 
-Vou atualizar este repositório ao longo da disciplina para adicionar novas atividades, tarefas e trabalhos.
+Este repositório será atualizado durante a matéria conforme novas atividades e projetos forem desenvolvidos.
